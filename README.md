@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Shivam Jaiswal</h1>
 <h3 align="center">Crafting Code Universes: Full Stack Developer, CP Enthusiast, and Student Extraordinaire ✨</h3>
-
+<center>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thejayas&label=Profile%20views&color=0e75b6&style=flat" alt="thejayas" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thejayas" alt="thejayas" /></a> </p>
-
+</center>
 - 🌱 I’m currently learning **Web Development**
 
 - 📫 How to reach me **shivam181106@gmail.com**
